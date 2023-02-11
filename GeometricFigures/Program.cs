@@ -1,0 +1,4 @@
+﻿
+using GeometricFigures;
+
+ValuePrinter.PrintGeometricAreaAndPerimeter();

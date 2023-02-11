@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{D291EE87-1CCE-41C8-9217-ACD1FD03EE22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL", "SQL\SQL.csproj", "{0E56ADC0-61E9-47B5-923C-087AF07A782E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring", "Refactoring\Refactoring.csproj", "{D189870A-9D27-401B-8FA8-1AA01E97CBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigures", "GeometricFigures\GeometricFigures.csproj", "{B77413AB-3316-4407-98E5-135B4442B994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D291EE87-1CCE-41C8-9217-ACD1FD03EE22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D291EE87-1CCE-41C8-9217-ACD1FD03EE22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D291EE87-1CCE-41C8-9217-ACD1FD03EE22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D291EE87-1CCE-41C8-9217-ACD1FD03EE22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E56ADC0-61E9-47B5-923C-087AF07A782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E56ADC0-61E9-47B5-923C-087AF07A782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E56ADC0-61E9-47B5-923C-087AF07A782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E56ADC0-61E9-47B5-923C-087AF07A782E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D189870A-9D27-401B-8FA8-1AA01E97CBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D189870A-9D27-401B-8FA8-1AA01E97CBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D189870A-9D27-401B-8FA8-1AA01E97CBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D189870A-9D27-401B-8FA8-1AA01E97CBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77413AB-3316-4407-98E5-135B4442B994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77413AB-3316-4407-98E5-135B4442B994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77413AB-3316-4407-98E5-135B4442B994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77413AB-3316-4407-98E5-135B4442B994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
